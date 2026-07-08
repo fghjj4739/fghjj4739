@@ -19,3 +19,4 @@ https://askjune.ai/app/chat
  the advantages and disadvantages.
 im king 
 Imagine living on Mars.
+Write about a lucky coin.
