@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**fghjj4739/fghjj4739** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some to get you started:
 
