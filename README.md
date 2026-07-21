@@ -1,7 +1,7 @@
 
 
 
- appears on your GitHub profile.
+ s on your GitHub profile.
 
 
 
