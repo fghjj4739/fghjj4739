@@ -1,7 +1,7 @@
 
 
 
- s on your GitHub profile.
+ sr GitHub profile.
 
 
 
