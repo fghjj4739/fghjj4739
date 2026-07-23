@@ -1,7 +1,7 @@
 
 
 
- sr GitHub profile.
+ GitHub profile.
 
 
 
