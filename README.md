@@ -14,7 +14,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fac: ...
 -->
-https://github.com/facebook/react
+/github.com/facebook/react
 https://askjune.ai/app/chat
  the advantages and disadvantages.
 
