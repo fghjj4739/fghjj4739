@@ -5,10 +5,7 @@
 
 
 
-- 
-
--
- ...
+.
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - c: ...
