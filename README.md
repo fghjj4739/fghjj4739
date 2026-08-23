@@ -6,7 +6,7 @@
 
 
 .
-- 📫w to reach me: 
+- to reach me: 
 - 😄 Pronouns: ...
 - c: ...
 -->
