@@ -12,7 +12,7 @@
 -->
 /github.com/facebook/react
 https://askjune.ai/app/chat
- the advantages and disadvantages.
+ dvantages and disadvantages.
 
 
 
