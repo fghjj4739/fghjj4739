@@ -10,7 +10,7 @@
 - 😄 Pronouns: ...
 - c: ...
 -->
-/github.com/facebook/react
+hub.com/facebook/react
 https://askjune.ai/app/chat
 tages and disadvantages.
 
