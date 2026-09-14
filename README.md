@@ -11,7 +11,7 @@
 - c: ...
 >
 hub.com/facebook/react
-s://askjune.ai/app/chat
+//askjune.ai/app/chat
 .
 
 
