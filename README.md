@@ -11,7 +11,7 @@
 - c: ...
 >
 hub.com/facebook/react
-//askjue.ai/p/cha
+//askjue.ai/p/ch
 .
 
 
