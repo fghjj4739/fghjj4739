@@ -11,7 +11,7 @@
 - c: ...
 >
 hub.com/facebook/react
-kjue.ai/p/
+jue.ai/p/
 .
 
 
