@@ -10,7 +10,7 @@
 - 😄 Pronouns: ...
 - c: ...
 >
-hub.com/facebook/react
+hub.com/facebook/reac
 e.ai/p/
 .
 
