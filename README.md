@@ -11,7 +11,7 @@
 - c: ...
 >
 hub.com/facebook/reac
-e.ai/p/
+ai/p/
 .
 
 
