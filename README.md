@@ -11,7 +11,7 @@
 - c: ...
 >
 ub.com/facebook/reac
-i/p/
+/p/
 .
 
 
