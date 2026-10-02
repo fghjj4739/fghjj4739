@@ -10,7 +10,7 @@
 - 😄 Pronouns: ...
 - c: ...
 >
-b.com/facebook/reac
+com/facebook/reac
 
 .
 
