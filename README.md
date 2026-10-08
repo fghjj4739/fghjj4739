@@ -10,7 +10,7 @@
 - 😄 Pronouns: ...
 - c: ...
 >
-ook/reac
+ok/reac
 
 .
 
