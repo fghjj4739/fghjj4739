@@ -6,7 +6,7 @@
 
 
 .
- reach me: 
+ach me: 
 - 😄 Pronou ...
 - c: ...
 >
